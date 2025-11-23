@@ -56,7 +56,7 @@ export default function FeaturesSection() {
               <h3 className="text-xl font-semibold text-[#0A0A0A] mb-2">
                 {feature.title}
               </h3>
-              <p className="text-[#717182] text-lg   ">
+              <p className="text-[#717182] text-lg">
                 {feature.description}
               </p>
             </div>
