@@ -1,10 +1,10 @@
 export default function Buttons({ text, showArrow = false, className = "" }) {
   return (
     <button
-      className={`px-8 py-4 rounded-lg font-medium transition-colors ${
+      className={`px-8 py-4 rounded-lg font-medium transition-colors cursor-pointer ${
         showArrow ? "flex items-center gap-2 justify-center" : "text-center"
       } ${className}`}
-    >    
+    >
       {text}
       {showArrow && (
         <svg
