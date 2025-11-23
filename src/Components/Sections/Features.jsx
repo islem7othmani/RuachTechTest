@@ -63,6 +63,6 @@ export default function FeaturesSection() {
           ))}
         </div>
       </div>
-    </section>
+    </section>   
   );
 }

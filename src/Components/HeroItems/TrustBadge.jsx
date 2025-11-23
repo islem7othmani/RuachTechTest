@@ -32,5 +32,5 @@ export default function TrustBadge() {
         </div>
       </div>
     </div>
-  )
+  )   
 }

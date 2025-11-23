@@ -9,6 +9,5 @@ export default function ImageHero() {
                 className="w-full h-auto"
               />
             </div>
-            
   )
 }

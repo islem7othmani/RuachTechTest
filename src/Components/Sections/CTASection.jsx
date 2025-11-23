@@ -11,7 +11,7 @@ export default function CTASection() {
           <h2 className="text-4xl md:text-5xl font-semibold text-white mb-6">
             Ready to get started?
           </h2>
-
+  
           <p className="text-white/90 text-xl pb-4 max-w-2xl mx-auto">
             Join thousands of teams building with precision and attention to detail
           </p>

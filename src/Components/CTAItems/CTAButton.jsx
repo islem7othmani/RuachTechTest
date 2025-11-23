@@ -6,4 +6,4 @@ export default function CTAButton({ children, className }) {
       {children}
     </button>
   );
-}
+}  

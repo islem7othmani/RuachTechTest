@@ -11,7 +11,7 @@ export default function HeroSection() {
           <div className="space-y-6 md:space-y-8 w-11/12">
             <div className="relative top-4 md:top-8">
               <Badge text="New Release v2.0" />
-            </div>
+            </div>  
 
             <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-6xl font-semibold leading-tight">
               Build with precision and{' '}

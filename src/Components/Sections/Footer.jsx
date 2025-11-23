@@ -63,10 +63,10 @@ export default function Footer() {
         </div>
         <div className="pt-8 text-center">
           <p className="text-lg text-slate-500">
-            © 2025 Detailify. All rights reserved.
+             © 2025 Detailify. All rights reserved.
           </p>
         </div>
       </div>
-    </footer>
+    </footer>   
   );
 }

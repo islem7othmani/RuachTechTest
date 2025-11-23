@@ -18,7 +18,7 @@ export default function PricingSection() {
       ],
       highlighted: false
     },
-    {
+    {   
       name: 'Professional',
       price: 79,
       description: 'For growing businesses',

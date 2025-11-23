@@ -8,7 +8,7 @@ function Header() {
       <div className="mx-auto px-6 py-4">
         <div className="flex items-center justify-between">
           <Logo textColor="black" />
-          <NavLinks />
+          <NavLinks/>
           <ActionButtons />
         </div>
       </div>

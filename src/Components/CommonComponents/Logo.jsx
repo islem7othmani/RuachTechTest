@@ -6,7 +6,7 @@ function Logo({ textColor }) {
         Detailify
       </span>
     </div>
-  );
+  );   
 }
 
 export default Logo;
