@@ -53,10 +53,10 @@ export default function FeaturesSection() {
               <div className={`${feature.iconBg} ${feature.iconColor} w-16 h-16 rounded-xl flex items-center justify-center mb-4`}>
                 {feature.icon}
               </div>
-              <h3 className="text-xl font-semibold text-gray-900 mb-2">
+              <h3 className="text-xl font-semibold text-[#0A0A0A] mb-2">
                 {feature.title}
               </h3>
-              <p className="text-[#0A0A0A] text-2xl ">
+              <p className="text-[#717182] text-lg   ">
                 {feature.description}
               </p>
             </div>

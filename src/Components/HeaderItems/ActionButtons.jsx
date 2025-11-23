@@ -3,7 +3,7 @@ import Buttons from "../CommonComponents/Buttons";
 
 function ActionButtons() {
   return (
-    <div className="flex items-center gap-4 text-xl">
+    <div className="flex items-center gap-4 text-xl lg:text-lg md:text-lg sm:text-lg">
       <Buttons
         text="Sign In"
         className="text-gray-700 hover:text-gray-900 font-medium transition-colors"
