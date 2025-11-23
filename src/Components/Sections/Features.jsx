@@ -36,10 +36,10 @@ export default function FeaturesSection() {
     <section className="w-full bg-[#F9FAFB] py-20 px-10">
       <div className="mx-auto">
         <div className="text-center mb-12 sm:mb-16">
-          <h2 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-inter font-normal text-[36px] leading-[40px] tracking-[0.37px] text-[#0A0A0A] mb-8">
+          <h2 className="text-3xl sm:text-2xl md:text-3xl lg:text-4xl font-inter font-normal text-[36px] leading-[40px] tracking-[0.37px] text-[#0A0A0A] mb-8">
             Built for the detail-oriented
           </h2>
-          <p className="text-xl sm:text-2xl md:text-3xl font-inter font-normal text-[20px] leading-[28px] tracking-[-0.45px] text-[#4A5565]">
+          <p className="text-2xl sm:text-xl md:text-2xl font-inter font-normal leading-[28px] tracking-[-0.45px] text-[#4A5565]">
             Every feature designed with precision and care. Experience the difference quality makes.
           </p>
         </div>

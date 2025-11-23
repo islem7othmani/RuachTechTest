@@ -49,10 +49,10 @@ export default function PricingSection() {
     <section className="w-full bg-white py-20 px-4 sm:py-24 sm:px-6 lg:py-32 lg:px-8">
       <div className="max-w-7xl mx-auto">
         <div className="text-center mb-16 sm:mb-20">
-          <h2 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-inter font-normal text-[36px] leading-[40px] tracking-[0.37px] text-[#0A0A0A] mb-8">
+          <h2 className="text-3xl sm:text-2xl md:text-3xl lg:text-4xl font-inter font-normal text-[36px] leading-[40px] tracking-[0.37px] text-[#0A0A0A] mb-8">
             Simple, transparent pricing
           </h2>
-          <p className="text-xl sm:text-2xl md:text-3xl font-inter font-normal text-[20px] leading-[28px] tracking-[-0.45px] text-[#4A5565]">
+          <p className="text-2xl sm:text-xl md:text-2xl font-inter font-normal leading-[28px] tracking-[-0.45px] text-[#4A5565]">
             Choose the plan that's right for your team
           </p>
         </div>

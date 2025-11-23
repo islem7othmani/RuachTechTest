@@ -8,11 +8,11 @@ export default function CTASection() {
         <DecorativeBlobs />
 
         <div className="relative z-10 text-center py-16 px-8">
-          <h2 className="text-4xl md:text-5xl font-semibold text-white mb-6">
+          <h2 className="text-4xl sm:text-2xl md:text-3xl lg:text-5xl xl:text-5xl font-inter font-normal  leading-[40px] tracking-[0.37px] text-white mb-8">
             Ready to get started?
           </h2>
   
-          <p className="text-white/90 text-xl pb-4 max-w-2xl mx-auto">
+          <p className="text-white/90 text-2xl sm:text-xl md:text-2xl font-inter font-normal leading-[28px] tracking-[-0.45px] mb-8">
             Join thousands of teams building with precision and attention to detail
           </p>
 
