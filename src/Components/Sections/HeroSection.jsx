@@ -13,14 +13,14 @@ export default function HeroSection() {
               <Badge text="New Release v2.0" />
             </div>  
 
-            <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-6xl font-semibold leading-tight">
-              Build with precision and{' '}
+            <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-6xl font-inter font-normal text-[60px] leading-[60px] tracking-[-1.24px]">
+              Build with precision and
               <span className="pl-2 md:pl-4 bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent font-bold">
-                attention to detail
+              attention to detail
               </span>
             </h1>
 
-            <p className="text-lg sm:text-xl md:text-2xl text-gray-600 leading-relaxed mt-4 md:mt-6">
+            <p className=" sm:text-xl md:text-2xl text-gray-600 leading-relaxed mt-4 md:mt-6 font-normal text-xl leading-7 tracking-tight text-[#4A5565]">
               The modern platform for teams who care about quality. Every pixel matters, every interaction counts.
             </p>
 

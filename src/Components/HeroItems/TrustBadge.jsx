@@ -23,12 +23,12 @@ export default function TrustBadge() {
         ))}
       </div>
       <div>
-        <p className="text-2xl text-gray-600">Trusted by 10,000+ developers</p>
+        <p className="font-inter font-normal text-[14px] leading-[20px] tracking-[-0.15px] text-[#4A5565]">Trusted by 10,000+ developers</p>
         <div className="flex items-center gap-1">
           {Array.from({ length: 5 }).map((_, i) => (
             <Star key={i} />
           ))}
-          <span className="text-lg font-medium text-[#F0B100] ml-1">4.9/5 rating</span>
+          <span className="font-inter font-normal text-[14px] leading-[20px] tracking-[-0.15px] text-[#F0B100]">4.9/5 rating</span>
         </div>
       </div>
     </div>

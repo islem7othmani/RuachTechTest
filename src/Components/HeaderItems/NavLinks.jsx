@@ -1,27 +1,27 @@
 function NavLinks() {
   return (
-    <nav className="hidden md:flex items-center gap-8 text-xl lg:text-xl md:text-lg sm:text-lg">
+    <nav className="hidden md:flex items-center gap-8 ">
       <a
         href="#features"
-        className="text-[#4A5565] hover:text-gray-900 transition-colors"
+        className="font-inter font-normal text-base leading-6 tracking-tight text-[#4A5565] hover:text-gray-900 "
       >
         Features
       </a>
       <a
         href="#pricing"
-        className="text-[#4A5565] hover:text-gray-900 transition-colors"
+        className="font-inter font-normal text-base leading-6 tracking-tight text-[#4A5565] hover:text-gray-900 "
       >
         Pricing
       </a>
       <a
         href="#about"
-        className="text-[#4A5565] hover:text-gray-900 transition-colors"
+        className="font-inter font-normal text-base leading-6 tracking-tight text-[#4A5565] hover:text-gray-900 "
       >
         About
       </a>
       <a
         href="#dashboard"
-        className="text-[#4A5565] hover:text-gray-900 transition-colors"
+        className="font-inter font-normal text-base leading-6 tracking-tight text-[#4A5565] hover:text-gray-900 "
       >
         Dashboard
       </a>

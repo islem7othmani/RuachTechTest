@@ -7,7 +7,7 @@ function Header() {
     <header className="w-full bg-white border-b border-gray-200">
       <div className="mx-auto px-6 py-4">
         <div className="flex items-center justify-between">
-          <Logo textColor="black" />
+          <Logo textColor="#0A0A0A" />
           <NavLinks/>
           <ActionButtons />
         </div>

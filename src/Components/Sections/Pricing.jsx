@@ -52,13 +52,13 @@ export default function PricingSection() {
   ];
 
   return (
-    <section className="w-full bg-gradient-to-b from-gray-50 to-white py-20 px-4 sm:py-24 sm:px-6 lg:py-32 lg:px-8">
+    <section className="w-full bg-white from-gray-50 to-white py-20 px-4 sm:py-24 sm:px-6 lg:py-32 lg:px-8">
       <div className="max-w-7xl mx-auto">
         <div className="text-center mb-16 sm:mb-20">
-          <h2 className="text-4xl sm:text-5xl md:text-6xl font-semibold text-gray-900 mb-4 sm:mb-6">
+          <h2 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-inter font-normal text-[36px] leading-[40px] tracking-[0.37px] text-center text-[#0A0A0A] mb-8">
             Simple, transparent pricing
           </h2>
-          <p className="text-3xl text-gray-600 max-w-2xl mx-auto">
+          <p className="text-xl sm:text-2xl md:text-3xl font-inter font-normal text-[20px] leading-[28px] tracking-[-0.45px] text-center text-[#4A5565]">
             Choose the plan that's right for your team
           </p>
         </div>
@@ -86,7 +86,7 @@ export default function PricingSection() {
                     <span className="text-gray-600 ml-2 sm:ml-3 text-semibold sm:text-xl">/month</span>
                   </div>
                 ) : (
-                  <div className="text-4xl sm:text-5xl md:text-7xl font-semibold text-gray-900">{plan.price}</div>
+                  <div className="tfont-inter font-medium text-[36px] leading-[40px] tracking-[0.37px] text-[#0A0A0A]">{plan.price}</div>
                 )}
               </div>
 
