@@ -13,7 +13,7 @@ export default function HeroSection() {
               <Badge text="New Release v2.0" />
             </div>
 
-            <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl xl:text-8xl font-semibold leading-tight">
+            <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-6xl font-semibold leading-tight">
               Build with precision and{' '}
               <span className="pl-2 md:pl-4 bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent font-bold">
                 attention to detail
