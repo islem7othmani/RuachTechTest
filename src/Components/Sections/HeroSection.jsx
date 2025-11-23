@@ -8,7 +8,7 @@ export default function HeroSection() {
     <section className="w-full bg-gradient-to-b from-white to-gray-50 py-12 md:py-20 px-4 sm:px-6 lg:px-8">
       <div className="max-w-full mx-auto">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-10 lg:gap-12 items-center">
-          <div className="space-y-6 md:space-y-8">
+          <div className="space-y-6 md:space-y-8 w-11/12">
             <div className="relative top-4 md:top-8">
               <Badge text="New Release v2.0" />
             </div>
